@@ -7,6 +7,6 @@ Interested in AI safety, LLM pipelines, and agentic systems
 Skills:
 Python · LangChain · ChromaDB · Groq API · Streamlit · Gradio · MCP
 
-Find me
+Find me on
 LinkedIn: https://www.linkedin.com/in/kavya-donepudi-0abb37291/
 
